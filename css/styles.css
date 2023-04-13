@@ -1,0 +1,25 @@
+body {
+    background-image: url("b.jpg");
+    color:antiquewhite;
+    
+}
+hr {
+    border-color: rgb(8, 5, 0);
+    border-style:dotted none none;   /*or border-style: none; */
+    border-width: 5px;               /*and, border-top-style: dotted; */
+    height: 2px;
+    width: 5%;
+}
+img{
+    height: 130px;
+    border-style: circle;
+}
+href{
+    color: antiquewhite;
+}
+h3{
+    color: aqua;
+}
+h1{
+    color: aqua;
+}
